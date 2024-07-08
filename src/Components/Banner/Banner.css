@@ -1,0 +1,50 @@
+
+.promo-banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    background: linear-gradient(200deg, #d40a4da1, #e1ffea22 60%);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 92%;}
+
+.promo-text {
+    margin-right: 2px;
+}
+
+.promo-title {
+    color: #d40a4dfd;
+    /* Tailwind CSS orange-500 */
+    font-size: 2rem;
+    /* Tailwind CSS text-4xl */
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.promo-time {
+    color: #4b5563;
+    /* Tailwind CSS gray-600 */
+    font-size: 1.25rem;
+    /* Tailwind CSS text-xl */
+    margin-bottom: 1rem;
+}
+.promo-time span{
+    color: #d40a4dfd;
+}
+
+.promo-button {
+    background-color: #d40a4dfd;
+    /* Tailwind CSS orange-500 */
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.promo-image img {
+    width: 140px;
+    height: auto;
+}
