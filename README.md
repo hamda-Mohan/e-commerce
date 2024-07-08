@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# E-Commerce Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+E-Commerce Platform is a comprehensive web application developed to facilitate online shopping, providing users with an intuitive interface and robust features for a seamless shopping experience.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+### User Authentication
+- **Sign Up / Login**: Secure user registration and authentication.
+- **User Roles**: Different user roles including customers and administrators.
 
-### `npm start`
+### Product Management
+- **Browse Products**: Users can view a wide range of products with detailed descriptions and images.
+- **Search Products**: Efficient search functionality to find specific products.
+- **Product Details**: Detailed view of each product with pricing, descriptions, and images.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Shopping Cart
+- **Add to Cart**: Users can add products to their shopping cart.
+- **Manage Cart**: Update quantities or remove items from the cart.
+- **Checkout**: Seamless checkout process with summary and order confirmation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Order Management
+- **Order History**: View past orders and their statuses.
+- **Order Tracking**: Real-time tracking of current orders.
 
-### `npm test`
+### Admin Panel
+- **Product Management**: Admins can add, update, or delete products.
+- **Order Management**: View and manage all orders placed by users.
+- **User Management**: Admins can view and manage all users.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+### Frontend
+- **React**: A JavaScript library for building user interfaces.
+- **React Router**: A library for routing in React applications, enabling navigation between different views or pages.
+- **Pure CSS**: Styling the application with custom CSS for a unique and responsive design.
+- **Testing Libraries**:
+  - **@testing-library/react**
+  - **@testing-library/jest-dom**
+  - **@testing-library/user-event**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Dependencies
+```json
+"dependencies": {
+  "@testing-library/jest-dom": "^5.17.0",
+  "@testing-library/react": "^13.4.0",
+  "@testing-library/user-event": "^13.5.0",
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "react-router-dom": "^6.23.1",
+  "react-scripts": "5.0.1",
+  "web-vitals": "^2.1.4"
+}
