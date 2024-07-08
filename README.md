@@ -50,3 +50,29 @@ E-Commerce Platform is a comprehensive web application developed to facilitate o
   "react-scripts": "5.0.1",
   "web-vitals": "^2.1.4"
 }
+Setup Instructions
+Clone the Repository:
+sh
+Copy code
+git clone https://github.com/yourusername/ecommerce-platform.git
+cd ecommerce-platform
+Install Dependencies:
+sh
+Copy code
+npm install
+Set Up Environment Variables:
+Create a .env file in the project root with appropriate configuration variables like API URLs and other necessary credentials.
+
+Run the Development Server:
+sh
+Copy code
+cd shopping
+npm run dev
+Access the Application:
+Open your browser and navigate to http://localhost:3000 to access the e-commerce platform.
+
+Contributing
+We welcome contributions from the community. If you have suggestions, find any issues, or want to add new features, please open an issue or submit a pull request on our GitHub repository.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
