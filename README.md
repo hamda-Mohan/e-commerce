@@ -26,7 +26,7 @@ E-Commerce Platform is a comprehensive web application developed to facilitate o
 - **React Router**: A library for routing in React applications, enabling navigation between different views or pages.
 - **Pure CSS**: Styling the application with custom CSS for a unique and responsive design.
 - #Dynamic  data use mockup and  These mockups are using local image imports and hard-coded product details, such as the name, category, image, new price, and old price.
--  state managments such as useState and  userContext.
+-  state managments such as useState and  useEffect and userContext.
 -  Form Handling
  
  
@@ -35,7 +35,7 @@ E-Commerce Platform is a comprehensive web application developed to facilitate o
   - **@testing-library/jest-dom**
   - **@testing-library/user-event**
  
-  - 
+    
 Setup Instructions
 Clone the Repository:
 sh
