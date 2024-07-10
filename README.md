@@ -3,7 +3,8 @@
 E-Commerce Platform is a comprehensive web application developed to facilitate online shopping, providing users with an intuitive interface and robust features for a seamless shopping experience.
 
 ## Features
-
+ # Core features we use include 
+ 
 ### Product Management
 - **Browse Products**: Users can view a wide range of products with detailed descriptions and images.
 - **Search Products**: Efficient search functionality to find specific products.
@@ -24,6 +25,11 @@ E-Commerce Platform is a comprehensive web application developed to facilitate o
 - **React**: A JavaScript library for building user interfaces.
 - **React Router**: A library for routing in React applications, enabling navigation between different views or pages.
 - **Pure CSS**: Styling the application with custom CSS for a unique and responsive design.
+- #Dynamic  data use mockup and  These mockups are using local image imports and hard-coded product details, such as the name, category, image, new price, and old price.
+-  state managments such as useState and  userContext.
+-  Form Handling
+ 
+ 
 - **Testing Libraries**:
   - **@testing-library/react**
   - **@testing-library/jest-dom**
