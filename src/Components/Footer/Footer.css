@@ -78,9 +78,9 @@
 
 .footer-newsletter-form {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    gap: 10px;
+    gap: 15px;
 }
 
 .footer-newsletter-form input {
@@ -110,7 +110,7 @@
 }
 
 .footer-bottom hr {
-    width: 80%;
+    width: 100%;
     border: none;
     border-radius: 10px;
     height: 3px;
