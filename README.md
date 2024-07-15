@@ -70,8 +70,8 @@ npm start
 Access the Application:
 
 Open your browser and navigate to http://localhost:3000 to access the e-commerce platform.
-###Contact For any questions or
--**suggestions please contact**: Hamdi at duumohamed3@gmail.com
+# Contact For any questions or
+- **suggestions please contact**: Hamdi at duumohamed3@gmail.com
 Contributing
 We welcome contributions from the community. If you have suggestions, find any issues, or want to add new features, please open an issue or submit a pull request on our GitHub repository.
 >>>>>>> 298ee0b37a50c62e11dcc8ac38a8b4aeb7c2f865
