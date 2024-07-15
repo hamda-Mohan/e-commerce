@@ -70,7 +70,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any questions or suggestions, please contact Abdishakur at engshakrayare114@gmail.com.
+For any questions or suggestions, please contact Hamdi at duumohamed3@gmail.com
 =======
 # E-Commerce Platform
 
@@ -137,7 +137,7 @@ Copy code
 
 cd shopping
 
-npm run dev
+npm start
 
 Access the Application:
 
