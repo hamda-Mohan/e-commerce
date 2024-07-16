@@ -1,6 +1,6 @@
 
 
-=======
+
 # E-Commerce Platform
 
 E-Commerce Platform is a comprehensive web application developed to facilitate online shopping, providing users with an intuitive interface and robust features for a seamless shopping experience.
@@ -15,10 +15,10 @@ E-Commerce Platform is a comprehensive web application developed to facilitate o
 
 ### Shopping Cart
 - **Add to Cart**: Users can add products to their shopping cart.
-- **Remove on Cart **:Users can remove products on their shopping cart
+- **Remove on Cart**:Users can remove products on their shopping cart
 - **Manage Cart**: Update quantities or remove items from the cart.
 - **Checkout**: Seamless checkout process with summary and order confirmation.
-- **Clear **: after checkout clear cart
+- **Clear**: after checkout clear cart
 
 
 ## Technologies Used
